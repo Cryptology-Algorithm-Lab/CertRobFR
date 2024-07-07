@@ -1,7 +1,7 @@
 ### Toward Certifiably Robust Face Recognition
 
 - Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, Sunpill Kim and Jae Hong Seo.
-- Acceted for presentation at ECCV 2024
+- Accepted for presentation at ECCV 2024
 
 
 This repository is a source code for our paper entitled "Towards Certifiably Robust Face Recognition", which is accepted for presentation at ECCV 2024.

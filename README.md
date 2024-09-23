@@ -3,7 +3,7 @@
 - Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, Sunpill Kim and Jae Hong Seo.
 - Accepted for presentation at ECCV 2024
 
-![image](./asset/ECCV_11379_thumbnail.png)
+<p style="text-align: center"><img src="/asset/ECCV_11379_thumbnail.png" alt="image" width="60%" height="auto"></p>
 
 This repository is a source code for our paper entitled "Towards Certifiably Robust Face Recognition", which is accepted for presentation at ECCV 2024.
 

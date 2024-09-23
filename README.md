@@ -14,9 +14,9 @@ Note: Many parts of the training and evaluation codes for the face recognition m
 
 To run our source code, some packages, such as `PyTorch`, are required. Please refer to `requirements.txt`
 
-We will distribute the pre-trained weight using `zenodo`. You can get these parameters at the following links:
+You can get these parameters at the following links:
 
-- TBD
+```https://drive.google.com/file/d/1ACf4c-ZHWHwtllpEQQh6XYx8fbzJJbSW/view?usp=sharing```
 
 
 ### Usage
